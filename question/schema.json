@@ -1,0 +1,41 @@
+{
+    "_id": {
+      "$oid": "664ad2105aa63afeb8cd2963"
+    },
+    "patterns": "Identify factors",
+    "question": {
+      "text": "How do you write 0.75 as a fraction?"
+    },
+    "answerType": {
+      "select": [
+        "3/4",
+        "1/4",
+        "1/2",
+        "3/10"
+      ]
+    },
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Write the decimal as a fraction with 100 as the denominator. Reduce the fraction to simplest form."
+      },
+      "explanation2": {
+        "text": "0.75=0.75/100"
+      },
+      "explanation3": {
+        "text": "=75 ÷ 25/100 ÷ 25"
+      },
+      "explanation4": {
+        "text": "=3/4"
+      }
+    },
+    "disabled": false,
+    "audio": true,
+    "questionGroupId": "D.1",
+    "standard": 6,
+    "answer": {}
+  }

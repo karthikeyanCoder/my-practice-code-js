@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="translateapp.css">
+</head>
+<body>
+ <div class="container">
+<div class="card translateInput">
+    <div>
+        <select id="selectInputLang"></select>
+    </div>
+    <div class="textArea">
+        <textarea id="inputText"></textarea>
+        <div class="characters"> <span id="inputChar">0</span>/ 5000</div>
+    </div>
+    <div class="cardFooter">
+        <i class="fa-solid fa-copy"></i>
+    </div>
+</div>
+<div class="rotate">
+    <i class="fa-solid fa-arrow-right-left"></i><i class="fa-solid fa-arrow-right-right"></i>
+</div>
+<div class="card translateOutput">
+    <div>
+        <select id="selectOutputLang"></select>
+    </div>
+    <div class="textArea">
+        <textarea id="OutputText" disabled></textarea>
+        <div class="characters"> <span id="inputChar">0</span>/ 5000</div>
+    </div>
+    <div class="cardFooter">
+        <i class="fa-solid fa-copy"></i>
+    </div>
+</div>
+
+ </div>
+    <script src="translateapp.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+const selectInputLang =  document.getElementById('selectInputLang')
+selectInputLang = document.getElementById("selectOutputLang")
+inputText = document.getElementById("inputText")
+outputText = document.getElementById("outputText")
+inputChar = document.getElementById('inputChar')

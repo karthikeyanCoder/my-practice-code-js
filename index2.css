@@ -1,0 +1,53 @@
+/* 
+h1{
+    color :black;
+    font-size:35px;
+    font-family:cursive;
+    margin-bottom:auto;
+}
+h2{
+    color :rgb(233, 104, 104);
+    font-size:35px;
+    
+}
+p{
+   color :black;
+   font-weight: 50%;
+   font-size: 35px;
+   background-color:yellow ;
+}
+
+.c4
+{
+    margin-bottom: left;
+    border:1px black solid;
+}
+h1{
+    
+    text-align:center ; 
+}
+.f1{
+    padding : 10px;
+}
+.fg{
+    padding-bottom: 10px;
+}
+.f1 label{
+    display:block;
+}
+.f1 input{
+    padding:10px;
+    width:40%;
+}
+.fg input[type ="text"]{
+    padding :10px;
+    width:40%
+
+}
+.button:hover {
+    background-color: brown;
+    color:whitesmoke;
+    padding: 5px;
+    border :none;
+}
+  */

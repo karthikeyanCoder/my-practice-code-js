@@ -1,0 +1,91 @@
+{
+  "_id": {
+    "$oid": "66487a8f7f127554d2a2ac27"
+  },
+  "questions": [
+    {
+      "$oid": "664d97c5380b5f2de4fca0f5"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0f6"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0f7"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0f8"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0f9"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0fa"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0fb"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0fc"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0fd"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0fe"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca0ff"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca100"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca101"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca102"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca103"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca104"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca105"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca106"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca107"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca108"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca109"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca10a"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca10b"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca10c"
+    },
+    {
+      "$oid": "664d97c5380b5f2de4fca10d"
+    }
+  ],
+  "standard": 6,
+  "examinationName": "test.1",
+  "total": 10,
+  "marks": 1,
+  "totalQuestions": 30,
+  "isDisabled": false,
+  "examinationStartDate": {
+    "$date": "2024-05-11T10:18:19.147Z"
+  }
+}

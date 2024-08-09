@@ -1,0 +1,631 @@
+[
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for sum of 347 and v."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "347+v",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PfvR5R3g/1.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression and find Difference of x and 50"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "x - 50",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/yNV0wkt1/2.png "
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the Product of y and 8."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "8y",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/RFTS20rB/3.png "
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for Quotient of a and 3."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "a/3",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/pdRXCj7Z/4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression to Twice the sum of b and 10."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "2(b+10)",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/j2z1CTM7/Write-variable-expressions.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the Half of the difference of c and 15."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "c-15/2",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/527FRbcT/6.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": " ",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression to Triple the product of  x and  y"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "3xy",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/85W4GjNj/7.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": " ",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the One-third of  z."
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "z/3",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/vZbZLjcj/8.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the square of  m  minus 9"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "m^2-9",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/FsQL8TYb/9.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the cube of  n  plus 4"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "n^3+4",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/RFVP7MBF/10.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the difference of x and 25"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "x-25",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/W4pB2gcb/11.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the product of 5 and y"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "5y",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Hn7NntLX/12.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of a and b"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "a+b",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/ZnJDJvQx/13.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the quotient of 12 and z"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "12/z",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/HkFZVhKx/14.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the difference of m and n"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "m-n",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SskG9FGy/15.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the product of p and 8"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "8p",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/fbBV8GNW/16.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of x and y"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "x+y",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/26drHvvQ/17.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the quotient of 20 and a"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "20/a",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/xjy1gryw/18.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the difference of 2q and r"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "2q-r",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/nrq0kt9G/Write-variable-expressions-1.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the product of 15 and b"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "15b",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/zB20Y2n8/20.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of x and 10"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "x+10",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/dV9fSBSt/21.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the quotient of m and 6"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "m/6",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/KcrtTHKz/22.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of p and q"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "p+q",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/26n9h7vD/23.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the difference of 30 and x"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "30-x",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/445BGdQB/24.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the product of 2a and b"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "2ab",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Pr38RRbW/Write-variable-expressions-2.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of 8 and m"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "8+m",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/mrjtD0pf/26.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the quotient of 2y and 4"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "y/2",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/vB4QD0xs/Write-variable-expressions-4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of n and 15"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "n+15",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8c9bYFLH/28.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the difference of b and 7"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "b-7",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/dtJVP6jZ/29.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  },
+
+  {
+    "patterns": "word_Problem_WithInputBox",
+    "question": {
+      "text": "Write an expression for the sum of 5x and y"
+    },
+    "questionType": "number",
+    "answerType": "number",
+    "answer": "5xy",
+    "explanationType": "image",
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/tJbm8TjM/Write-variable-expressions-5.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "classesGroupName": "Addition and Subtraction",
+    "topicGroupName": "Addition and Subtraction",
+    "topic": "Add and subtract whole numbers: word problems",
+    "questionGroupId": "",
+    "standard": 6
+  }
+]
